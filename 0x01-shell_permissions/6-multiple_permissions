@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugx+or
+chmod ugx+or hello
